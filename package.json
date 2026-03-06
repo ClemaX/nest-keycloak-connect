@@ -1,5 +1,5 @@
 {
-  "name": "nest-keycloak-connect",
+  "name": "@clemax/nest-keycloak-connect",
   "version": "2.0.0-alpha.2",
   "description": "keycloak-nodejs-connect module for Nest",
   "author": "John Joshua Ferrer <johnjoshuaferrer@disroot.org>",
